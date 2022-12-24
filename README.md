@@ -3,3 +3,5 @@
 ### Author's repo: https://github.com/fpinscala/fpinscala
 
 ### Chapter 1: referential transparency and substitution model
+
+### Chapter 2: tail position
