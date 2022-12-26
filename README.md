@@ -4,4 +4,6 @@
 
 ### Chapter 1: referential transparency and substitution model
 
-### Chapter 2: tail position
+### Chapter 2: tail position, higher-order function, anonymous function
+
+### Chapter 3: 
